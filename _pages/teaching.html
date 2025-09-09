@@ -1,12 +1,27 @@
 ---
 layout: archive
-title: "Teaching"
+title: ""
 permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
+<!-- {% include base_path %}
 
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
+{% endfor %} -->
+
+<!-- # Teaching -->
+
+{% for post in site.teaching reversed %}
+
+{{ post.title }}
+
+{% if post.excerpt %}
+
+{{ post.excerpt | markdownify }}
+
+{% else %} {{ post.content | markdownify }} {% endif %}
+
 {% endfor %}
+

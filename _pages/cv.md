@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,30 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
+
+Please download [CV](/files/CV_HansenPen_2025.pdf) or [resume](/files/Resume_Hansen_Pen_job_market_v1.pdf)
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Economics, Rice University, Expected 2026
+* B.A. Economics and B.S. Mathematics, University of Texas at Austin, 2020
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Applied Scientist Intern, LinkedIn, Summer 2025
   
-Skills
+
+Research Experience 
+======
+* Research Assistant for David H. Zhang, Rice University, Summer 2023
+* Research Assistant for Jeremy Fox, Rice University, Summer 2022
+
+Conference and Seminar Presentations 
+======
+* United States Association for Energy Economics (USAEE), 2024, 2025
+* Brownbag Seminar, Rice University, 2023, 2024, 2025
+* Third-Year Paper Conference, Rice University, 2023
+
+Awards and Fellowships
+======
+* Graduate Fellowship, Rice University, 2020 - Present 
+* Center for Computational Insights on Inequality and Society Grant, Rice University, 2025
+* Dissertation Research Improvement Grants, Rice University, 2025
+* Samuel Fain Carter Fellowship in Economics for outstanding academic performance, Rice University, 2024 
+* Undergraduate Research in Economics Fellowship, UT Austin, 2020 
+* Unrestricted Endowed Presidential Scholarship, UT Austin, 2019
+
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -41,7 +51,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+ Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -61,4 +71,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams --> 

@@ -1,0 +1,12 @@
+---
+title: ""
+layout: archive
+permalink: /working_papers/
+---
+{% for paper in site.working_papers %}
+  <article>
+    <h2>{{ paper.title }}</h2>
+    <p><strong>Authors:</strong> {{ paper.authors }}</p>
+    <p><strong>Abstract:</strong> {{ paper.abstract }}</p>
+  </article>
+{% endfor %}
