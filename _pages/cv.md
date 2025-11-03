@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Please download [CV](/files/CV_HansenPen_2025.pdf) or [resume](/files/Resume_Hansen_Pen_job_market_v1.pdf)
+Please download [CV](/files/CV_HP.pdf) or [resume](/files/Resume_Hansen_Pen_job_market_v1.pdf)
 
 Education
 ======
