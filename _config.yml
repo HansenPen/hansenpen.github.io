@@ -29,7 +29,7 @@ author:
   location         : "Houston, Texas, United States"
   employer         : "Rice University"
   uri              : # URL
-  email            : "hp35@rice.edu" 
+  email            : "mailto:hp35@rice.edu" 
 
   # Academic websites
   academia         : # URL
@@ -47,7 +47,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : https://github.com/HansenPen
+  github           : "https://github.com/HansenPen"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -62,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : www.linkedin.com/in/hansen-pen
+  linkedin         : "www.linkedin.com/in/hansen-pen"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
